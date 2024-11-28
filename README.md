@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **Java , Anguler**
 
 - 📫 How to reach me **rohitgardiofficial039@gmail.com / 7387439091**
 
