@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Java , Anguler**
+- 💬 Ask me about **Full Stack Java , Anguler**
 
 - 📫 How to reach me **rohitgardiofficial039@gmail.com / 7387439091**
 
