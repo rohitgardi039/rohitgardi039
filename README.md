@@ -16,10 +16,7 @@
 
 - 💬 Ask me about **Full Stack Java , Anguler**
 
-- 📫 How to reach me **rohitgardiofficial039@gmail.com / 7387439091**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12tx_UGBasIv7V3xIqEkTSJmhdt7EOaGu/view?usp=sharing](https://drive.google.com/file/d/12tx_UGBasIv7V3xIqEkTSJmhdt7EOaGu/view?usp=sharing)
-
+- 📫 How to reach me **rohitgardiofficial039@gmail.com **
 
 - ⚡ Fun fact **I am Funny**
 
